@@ -1,4 +1,4 @@
-![imagem de apresentação](https://i.imgur.com/aFUwBjr.png)
+![imagem de apresentação](https://i.imgur.com/u2e5ydr.png)
 
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
