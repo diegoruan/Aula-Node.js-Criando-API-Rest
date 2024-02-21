@@ -1,7 +1,5 @@
 ![imagem de apresentação](https://i.imgur.com/u2e5ydr.png)
 
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-
 # Material da aula de Node.js: criando uma API Rest com Express e MongoDB
 
 Arquivos que usei em aula
